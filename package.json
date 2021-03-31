@@ -1,0 +1,16 @@
+{
+  "name": "gmb-posts-api",
+  "version": "1.0.0",
+  "description": "test api access to programatically post to client google my business accounts",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Doug McKay",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "googleapis": "^66.0.0",
+    "isomorphic-fetch": "^3.0.0"
+  }
+}

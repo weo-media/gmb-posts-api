@@ -1,0 +1,25 @@
+{
+  "name": "string",
+  "languageCode": "string",
+  "summary": "string",
+  "callToAction": {
+    "object": "(CallToAction)"
+  },
+  "createTime": "string",
+  "updateTime": "string",
+  "event": {
+    "object": "(LocalPostEvent)"
+  },
+  "state": "enum (LocalPostState)",
+  "media": [
+    {
+      "object": "(MediaItem)"
+    }
+  ],
+  "searchUrl": "string",
+  "topicType": "enum (LocalPostTopicType)",
+  "alertType": "enum (AlertType)",
+  "offer": {
+    "object": "(LocalPostOffer)"
+  }
+}
